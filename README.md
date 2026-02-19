@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##👋 Hi, I'm Leo
+👋 Hi, I'm Leo
 I am a Business Analyst focused on turning data into clear, actionable insights. I enjoy building reporting solutions, improving processes, and helping teams make better decisions with the information they already have.
 
 ## 🔧 Tools & Skills
